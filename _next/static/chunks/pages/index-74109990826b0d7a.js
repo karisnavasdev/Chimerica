@@ -782,8 +782,7 @@
                         children: [
                         
                           (0, R.jsx)("a", {
-                            href: "
-https://x.com/Chimericasol",
+                            href: "https://x.com/Chimericasol",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
