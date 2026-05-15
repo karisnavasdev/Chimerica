@@ -766,7 +766,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "pumppump"
+                              "HrkUao5JcWxQ6888vymJT23VzR8mUaedvEMMKmpZpump"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -774,7 +774,7 @@
                               });
                           },
                           children:
-                            "CA: pumppump",
+                            "CA: HrkUao5JcWxQ6888vymJT23VzR8mUaedvEMMKmpZpump",
                         }),
                       }),
                       (0, R.jsxs)("div", {
@@ -800,7 +800,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/solana/pumppump",
+                            href: "https://dexscreener.com/solana/HrkUao5JcWxQ6888vymJT23VzR8mUaedvEMMKmpZpump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -813,7 +813,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/solana/pair-explorer/pumppump",
+                            href: "https://www.dextools.io/app/solana/pair-explorer/HrkUao5JcWxQ6888vymJT23VzR8mUaedvEMMKmpZpump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
